@@ -1,0 +1,11 @@
+[general]
+name=ImageLoader
+description=Click a polygon grid cell to automatically load the corresponding raster image from a selected folder. Optionally set filename prefix and suffix.
+about=ImageLoader is a QGIS plugin that allows users to click on polygons (e.g., grid tiles) to automatically load and display associated raster images from a local folder. 
+ 
+ The plugin supports customizable filename patterns using prefixes and suffixes, and provides an interactive interface for selecting the  input layer, field, and image directory.
+version=2.0
+qgisMinimumVersion=3.0
+author=Gkaravelis Andreas - Consortis Geospatial
+email=gkaravelis@consortis.gr
+icon=icon.png
